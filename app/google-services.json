@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "952355960401",
+    "firebase_url": "https://myauthfirebaseapp.firebaseio.com",
+    "project_id": "myauthfirebaseapp",
+    "storage_bucket": "myauthfirebaseapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952355960401:android:0bb92b5366333af2",
+        "android_client_info": {
+          "package_name": "com.example.borisiando.myauthfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952355960401-cohm084cgigsdlj780hhidgr2nmmveqi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.borisiando.myauthfirebaseapp",
+            "certificate_hash": "60CC73A4B23AB06726F978C1F87FA64478DACE88"
+          }
+        },
+        {
+          "client_id": "952355960401-vc59quffr1j9u6k93gidsj9i27m4dm5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnjaxZlVLIla0_7UG7B31AP1Qwo5bHBgI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952355960401-vc59quffr1j9u6k93gidsj9i27m4dm5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
